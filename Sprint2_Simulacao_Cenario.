@@ -1,0 +1,28 @@
+Simulação de Cenário para o Design de Software:
+
+Contexto: Estamos desenvolvendo um sistema UTM para monitorar uma variedade de aeronaves em um espaço aéreo urbano denso.
+
+Arquitetura do Software:
+
+    Escolha de Tecnologia: Utilizaremos Python para o backend devido à sua flexibilidade e vasta biblioteca para processamento de dados. Para o frontend, React será escolhido pela sua eficiência em renderizar dados dinâmicos.
+    Framework de Desenvolvimento: Flask será utilizado para criar uma API RESTful que servirá dados ao frontend.
+
+Modelo de Banco de Dados:
+
+    Esquema de Dados: O banco de dados será modelado para armazenar informações como identificação da aeronave, tipo (drone, eVTOL, avião, helicóptero), localização atual, destino, horário de partida/chegada e status operacional.
+    Tecnologia de Banco de Dados: PostgreSQL será usado por sua robustez e suporte a consultas geoespaciais.
+
+Diagrama de Fluxo de Dados:
+
+    Coleta de Dados: Dados são coletados de várias fontes (radares, GPS, comunicações ATC) através de APIs.
+    Processamento de Dados: Os dados recebidos são normalizados e processados. Operações incluem filtragem, agregação e conversão de coordenadas geográficas.
+    Armazenamento de Dados: Dados processados são armazenados no banco de dados PostgreSQL.
+    Serviço de Backend: O Flask expõe os dados processados através de uma API RESTful.
+    Interface do Usuário: O frontend, desenvolvido em React, consome dados da API e os exibe em uma interface gráfica interativa.
+
+Considerações Adicionais:
+
+    Implementação de segurança e autenticação para proteger a API e os dados.
+    Preparação para escalabilidade, permitindo o aumento de carga de dados e usuários.
+
+Este cenário fornece uma visão detalhada da estrutura e tecnologias necessárias para desenvolver o software de gerenciamento de espaço aéreo compartilhado.
