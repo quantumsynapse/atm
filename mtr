@@ -1,0 +1,49 @@
+Subsistema de Monitoramento em Tempo Real de Aeronaves.
+
+O primeiro passo efetivo para a gestão eficiente de um espaço aéreo compartilhado é estabelecer um sistema abrangente de monitoramento em tempo real. Este sistema deve ser capaz de registrar e acompanhar todas as aeronaves presentes na região de interesse, sejam elas em voo ou em solo. Isso inclui informações detalhadas sobre origem, destino, horários, finalidades e outras informações pertinentes de cada aeronave. Este registro em tempo real é crucial para o planejamento e coordenação do tráfego aéreo, assegurando a segurança e otimizando as rotas de voo. Além disso, tal sistema facilitaria a comunicação entre as diferentes aeronaves e os operadores de tráfego aéreo, permitindo uma resposta rápida a quaisquer situações emergenciais    ou mudanças nas condições de voo.
+
+Proposta para o Desenvolvimento deste modelo de gestão do espaco aéreo: 
+
+Para estruturar a primeira parte do projeto voltada ao registro e monitoramento em tempo real de todas as aeronaves, é aconselhável adotar uma abordagem ágil, dividindo o trabalho em sprints. Aqui está um esboço de como esses sprints poderiam ser organizados:
+
+Sprint 1: Planejamento e Definição de Requisitos
+
+    Objetivos: Definir o escopo do sistema de monitoramento em tempo real, identificar requisitos técnicos e operacionais.
+    Atividades: Workshops com stakeholders, análise de requisitos, definição de KPIs.
+
+Sprint 2: Desenvolvimento de Protótipo Inicial
+
+    Objetivos: Criar um protótipo inicial para coleta e exibição de dados das aeronaves.
+    Atividades: Desenvolvimento de software básico, integração inicial com fontes de dados existentes.
+
+Sprint 3: Testes Iniciais e Feedback
+
+    Objetivos: Testar o protótipo em um ambiente controlado e coletar feedback.
+    Atividades: Testes de campo limitados, coleta de feedback dos usuários, análise inicial de desempenho.
+
+Sprint 4: Aperfeiçoamento do Protótipo
+
+    Objetivos: Refinar o protótipo com base no feedback e nos testes.
+    Atividades: Iteração do desenvolvimento de software, melhoria da interface do usuário, aumento da capacidade de processamento de dados.
+
+Sprint 5: Integração de Dados Avançada
+
+    Objetivos: Integrar fontes de dados adicionais para enriquecer as informações do sistema.
+    Atividades: Desenvolvimento de APIs, parcerias com fornecedores de dados, integração de sistemas externos.
+
+Sprint 6: Testes Avançados e Coleta de Dados
+
+    Objetivos: Realizar testes extensivos e começar a coleta de dados em maior escala.
+    Atividades: Testes em diferentes condições, análise de dados, ajuste de algoritmos.
+
+Sprint 7: Implementação e Treinamento
+
+    Objetivos: Implementar o sistema em um ambiente operacional real e treinar os usuários.
+    Atividades: Implantação do sistema, treinamento de operadores e equipes de controle de tráfego aéreo, monitoramento contínuo.
+
+Sprint 8: Revisão e Iteração
+
+    Objetivos: Avaliar o desempenho do sistema em um ambiente real e fazer ajustes.
+    Atividades: Coleta de feedback operacional, análise de desempenho, planejamento de iterações futuras.
+
+Nota: Durante todo o processo, é crucial manter uma avaliação contínua para garantir que o sistema atenda às necessidades e aos padrões de segurança exigidos. Feedback regular e reavaliações são necessários para garantir a eficácia do sistema.
