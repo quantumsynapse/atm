@@ -1,0 +1,29 @@
+Sprint 2: Desenvolvimento de Protótipo Inicial
+
+Duração: 3 semanas
+
+Objetivos:
+
+    Desenvolver um protótipo funcional para a coleta e exibição de dados das aeronaves.
+    Estabelecer uma base tecnológica para iterações futuras.
+
+Atividades Detalhadas:
+
+    Design de Software: Criar um design inicial para o software de monitoramento, incluindo a interface do usuário e a arquitetura de dados.
+
+    Desenvolvimento de Software: Codificar a primeira versão do software, focando na coleta e exibição básica de dados das aeronaves.
+
+    Integração de Dados: Conectar o protótipo com fontes de dados existentes (por exemplo, radares, sistemas de comunicação aérea).
+
+    Desenvolvimento de Interface de Usuário (UI): Projetar uma interface de usuário simples e intuitiva para visualizar os dados coletados.
+
+    Revisão Técnica: Realizar uma revisão técnica interna para identificar erros e melhorar a eficiência do software.
+
+    Teste Inicial: Executar testes básicos para verificar a funcionalidade do protótipo, como a precisão na coleta de dados e a estabilidade do software.
+
+Resultados Esperados:
+
+    Um protótipo funcional capaz de coletar e exibir dados em tempo real das aeronaves.
+    Feedback inicial sobre a usabilidade e eficácia do protótipo.
+
+Esta sprint visa estabelecer uma fundação tecnológica sólida e flexível para o sistema, permitindo ajustes e melhorias rápidas em sprints subsequentes.
