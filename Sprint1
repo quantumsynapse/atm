@@ -1,1 +1,31 @@
+Sprint 1: Planejamento e Definição de Requisitos
 
+Duração: 2 semanas
+
+Objetivos:
+
+    Definir o escopo exato do sistema de monitoramento em tempo real.
+    Identificar os requisitos técnicos e operacionais detalhados.
+    Estabelecer as bases para o desenvolvimento subsequente.
+
+Atividades Detalhadas:
+
+    Workshops com Stakeholders: Realizar reuniões com operadores de tráfego aéreo, pilotos, engenheiros de aviação, autoridades regulatórias e representantes de empresas de UAVs para compreender suas necessidades e expectativas.
+
+    Análise de Requisitos: Identificar requisitos específicos, como tipos de dados a serem monitorados, frequência de atualização, padrões de segurança e compatibilidade com sistemas existentes.
+
+    Definição de KPIs (Indicadores-chave de Desempenho): Estabelecer métricas para avaliar o sucesso do sistema, como precisão dos dados, tempo de resposta e capacidade de processamento.
+
+    Elaboração de Documento de Requisitos: Criar um documento detalhado que enumere todos os requisitos técnicos e operacionais, incluindo especificações de hardware e software.
+
+    Planejamento Inicial do Projeto: Desenvolver um roadmap inicial para o projeto, incluindo marcos, dependências e alocação de recursos.
+
+    Revisão e Aprovação: Submeter o documento de requisitos e o plano do projeto para revisão e aprovação pelos stakeholders.
+
+Resultados Esperados:
+
+    Um conjunto claro e conciso de requisitos e expectativas.
+    Um documento de requisitos aprovado e um plano de projeto inicial.
+    Alinhamento e entendimento comum entre todas as partes interessadas.
+
+Esta sprint é crucial para assegurar que o projeto comece com uma base sólida e clara, evitando mal-entendidos ou mudanças significativas de escopo mais adiante.
