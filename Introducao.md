@@ -37,6 +37,6 @@ Resultados Esperados:
 Justificativa: Este projeto busca atender às crescentes necessidades de gerenciamento de tráfego aéreo em ambientes urbanos, trazendo inovações significativas para o campo da aviação e mobilidade urbana.
 
 1. NASA. (2023). "NASA is Creating an Advanced Air Mobility Playbook." [Online] Disponível em: https://www.nasa.gov [Acessado em: 10-11-2023].
-2. Deloitte Insights. (2023). "Infrastructure barriers to urban air mobility with VTOL." [Online] Disponível em: https://www.deloitte.com [Acessado em: 10-11-2023].
-3. Future Flight Consortium. (2023). "Developing a Connected Urban Airspace Management System for Unmanned Aircraft in Singapore." [Online] Disponível em: https://www.futureflight.sg [Acessado em: 10-11-2023].
+2. Deloitte Insights. (2023). "Infrastructure barriers to urban air mobility with VTOL." [Online] Disponível em: https://www2.deloitte.com/us/en/insights/focus/future-of-mobility/infrastructure-barriers-to-urban-air-mobility-with-VTOL.html [Acessado em: 10-11-2023].
+3. Future Flight Consortium. (2023). "Developing a Connected Urban Airspace Management System for Unmanned Aircraft in Singapore." [Online] Disponível em: https://www.futureflight.sg / https://www.airtrafficmanagement.net/article/uam-singapore-takes-step-forward [Acessado em: 10-11-2023].
 
